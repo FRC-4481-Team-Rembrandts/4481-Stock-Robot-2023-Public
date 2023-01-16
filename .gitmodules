@@ -1,0 +1,3 @@
+[submodule "src/main/java/frc/team4481/lib"]
+	path = src/main/java/frc/team4481/lib
+	url = https://gitlab.com/team-rembrandts/library/4481_frc_library.git
